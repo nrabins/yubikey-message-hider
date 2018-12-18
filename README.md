@@ -5,7 +5,9 @@ For all your stupid hiding-a-message-in-a-yubikeyesque-string needs
 `npm install -g ./`
 
 # Usage
-`yubi <string to encode>`
+1. `yubi <string to encode>`
+2. Make a selection.
+3. String is copied to clipboard.
 
 ## Options
 `-r` - Prevents string from being reversed
